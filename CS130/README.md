@@ -1,4 +1,4 @@
-# COSC130 - University of Tennessee
+# COSC130 - Computer Organization - University of Tennessee, Knoxville
  
 ### Number systems, boolean algebra, combinational and sequential circuits, registers, processor functional units and control, pipelining, memory and caching, stored program computing, memory management, computer system organization, assembly language programming
 
