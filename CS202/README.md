@@ -1,4 +1,4 @@
-# COSC202 - Data Structures and Algorithms I
+# COSC202 - Data Structures and Algorithms I - University of Tennessee, Knoxville
 
 ### Unix, I/O, Object-oriented programming, hash tables, STL (deques, sets, maps), stacks, queues, linked lists, algorithm analysis, trees (AVL and binary search), heaps
 
