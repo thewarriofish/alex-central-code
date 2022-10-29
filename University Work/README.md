@@ -1,4 +1,4 @@
-# This folder contains code I have done for university assignments. Each folder also contains a README describing the course the assignments were for.
+## This folder contains code I have done for university assignments. Each folder also contains a README describing the course the assignments were for.
 
 ### Other relevant courses include:
 - **MATH251 - Matrix Algebra**: Gaussian elimination, matrix inversion, determinants, vector spaces, subspaces, linear independence, spans and basis, eigenvalues and eigenvectors, linear transformations, norms
