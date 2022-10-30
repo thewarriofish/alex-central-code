@@ -1,0 +1,1 @@
+A simple mock-up of how the calendar will look, done in order to practice with Svelte.
