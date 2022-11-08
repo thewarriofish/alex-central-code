@@ -13,5 +13,5 @@
 - Lab 3 - Fakemake: Simulates a makefile
 - Lab 4 - Jtar: Simulates the tar program, specifically the create and extract functions
 - Lab 6 - Jmalloc: Simulates malloc() function
-- Lab 7-8 - Jsh: Simulates a shell (NOT DONE)
+- Lab 7-8 - Jsh: Simulates a shell
 - Final - Threads: A functioning chat server (NOT DONE)
