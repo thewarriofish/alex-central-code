@@ -111,7 +111,7 @@ int main(int argc, char** argv) {
 				/*Code added for lab 8.*/
 				else if(strcmp(command[i], "|") == 0)
 				{
-					pstatus = pipe(pipefd)i;
+					pstatus = pipe(pipefd);
 					/*If program is working with a child process, opens pipe for writing.*/
 					if((pid = fork()) == 0)
 					{
