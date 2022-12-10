@@ -6,4 +6,4 @@
 
 Contains all files I contributed for my group project.
 
-ProdoCal is a calendar app which aims to provide a service which merges social media and schedules. Catered towards schools and students, it uses machine learning to adapt schedules based on completion time of other students and the user's own completion time. 
+ProdoCal is a calendar app which aims to provide a service which merges social media and schedules. 
