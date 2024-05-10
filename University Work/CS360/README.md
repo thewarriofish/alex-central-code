@@ -2,7 +2,7 @@
 
 ### File I/O, system calls, buffering, libc, directories, links, assembler, stack frames, setjmp, memory management, processes (fork, exec, dup, pipe), sockets, client-server programming, thread
 
-### Contains C code; Work-in-Progress, will be updated; Much of the code relies on header files I have no access to
+### Contains C code; Much of the code relies on header files I have no access to
 ###
 - **Fields: library that simplifies input**
 - **Dllists: library that implements doubly-linked lists in C**
